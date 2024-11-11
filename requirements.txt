@@ -1,5 +1,5 @@
 impacket>=0.9.15
-gevent>=1.2.0
+gevent>=24.10.1
 netaddr
 pycrypto
 pyasn1
